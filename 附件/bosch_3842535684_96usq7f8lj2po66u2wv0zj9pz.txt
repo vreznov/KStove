@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"3842535684";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"SUPPLIER";"Bosch Rexroth AG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"30-05112015-063661";"";
+"TraceParts.PartLanguage";"zh";"";
+"DESIGN";"合页";"";
+"TraceParts.InstanceId";"30-05112015-063661DL3JO1BG0R5PNQNXIWVAS3Q0L";"";
+"TraceParts.PartTitle";"门和配件";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"SELECTION";"20/20";"";
+"TraceParts.ClassPath";"BOSCH:30-05112015-063661";"";
